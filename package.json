@@ -1,0 +1,14 @@
+{
+  "name": "one-time-poll",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:marscolony-io/one-time-poll.git",
+  "author": "crystalbit <crystalbit@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "@truffle/hdwallet-provider": "^2.0.6",
+    "chai": "^4.3.6"
+  }
+}
